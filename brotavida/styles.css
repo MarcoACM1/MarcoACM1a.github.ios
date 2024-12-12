@@ -1,0 +1,14 @@
+
+body {
+    background-image: url('img/bgi.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center center; 
+    height: 100vh;
+}
+
+.imags{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
